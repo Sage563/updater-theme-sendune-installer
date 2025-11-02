@@ -1,0 +1,7 @@
+{
+  "packages": ["neofetch", "htop"],
+  "files": [
+    { "src": "files/etc/sample.conf", "dst": "/tmp/narchs-sample.conf" }
+  ],
+  "scripts": ["features/add-widgets.sh"]
+}
